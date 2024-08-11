@@ -85,4 +85,4 @@ Once your dataset is ready, here’s how we’ll analyze it:
 Before you get started, make sure you have Python installed. You can install all the necessary Python packages with this command:
 
 ```bash
-pip install numpy pandas textblob matplotlib seaborn jupyter
+pip install numpy pandas textblob matplotlib seaborn jupyter humanize
